@@ -1,44 +1,43 @@
 # 700759673_ICP-1
-Title: String Deletion and Reversal
+TITLE: Deleting characters and Reversal of string
 
-Description:
-This Python script takes a string as input and performs character deletion and reversal based on user input. The user is prompted to enter a string, specify the number of characters to delete, and then provide the characters to be deleted. The script removes the specified characters from the input string, reverses the remaining characters, and prints the result.
+DESCRIPTION:
+In this code it asks user to prompt the input later it asks the user for how many characters and what characters to be deleted after deleting them it prints the remaining string in a reverse order.
 
-Usage:
+CODE EXPLANATION:
 1. The user is prompted to enter a string.
-2. The script then prompts the user to enter the number of characters to be deleted.
-3. In a loop, the user is asked to input the characters to be deleted, and the script removes these characters from the original string.
-4. The script then reverses the modified string.
-5. The reversed string is printed to the console.
+2. Then it asks the user to enter the number of characters to be deleted.
+3.And also the user need to be prompt what the characters to be deleted  from the original string.
+4. After deleting the characters the remaining string is printed in a reverse order.
 
-Example:
-Enter a string: hello
-Enter the number of characters to be deleted: 2
+
+Considering a Example:
+Enter  string: hello
+Enter number of characters to be deleted: 2
 Enter the characters to be deleted: e
 Enter the characters to be deleted: l
-Reversed and Modified String: ol
-
-Note: The script assumes valid input, and the deletion is case-sensitive.
+Reversed and Modified String: olh
 
 
 
-Title: Basic Arithmetic Operations
 
-Description:
-This Python script performs basic arithmetic operations on two input numbers. It takes two floating-point numbers as input, and then calculates and prints their addition, subtraction, multiplication, and division.
+TITLE: Arithmetic Operations
 
-Usage:
-1. The user is prompted to enter two numbers separated by a space.
-2. The script then converts the input values to floating-point numbers.
-3. It performs the following operations:
+DESCRIPTION:
+In this Python code it takes two numbers as a input from the user then it performs the arthmetic operations defined by the user.
+
+CODE EXPLANATION:
+1. The code prompts the message for the user to enter the numbers as a input.
+2. After the user gives the two numbers as a input it performs the following arthmetic operations.
    - Addition: n1 + n2
    - Subtraction: n1 - n2
    - Multiplication: n1 * n2
    - Division: n1 / n2
-4. The results of each operation are printed to the console.
 
-Example:
-Enter two numbers separated by a space: 5.0 3.0
+
+Considering a Example:
+Enter number1: 6
+Enter number2: 3
 Addition: 8.0
 Subtraction: 2.0
 Multiplication: 15.0

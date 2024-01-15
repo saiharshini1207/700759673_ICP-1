@@ -1,7 +1,7 @@
 # 700759673_ICP-1
 
 
- 1)  TITLE: Deleting characters and Reversal of string
+*1 TITLE: Deleting characters and Reversal of string
 
 DESCRIPTION:
 In this code it asks user to prompt the input later it asks the user for how many characters and what characters to be deleted after deleting them it prints the remaining string in a reverse order.

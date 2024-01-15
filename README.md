@@ -1,7 +1,7 @@
 # 700759673_ICP-1
 
 
-TITLE: Deleting characters and Reversal of string
+ 1. TITLE: Deleting characters and Reversal of string
 
 DESCRIPTION:
 In this code it asks user to prompt the input later it asks the user for how many characters and what characters to be deleted after deleting them it prints the remaining string in a reverse order.
@@ -24,7 +24,7 @@ Reversed and Modified String: olh
 
 
 
-TITLE: Arithmetic Operations
+2. TITLE: Arithmetic Operations
 
 DESCRIPTION:
 In this Python code it takes two numbers as a input from the user then it performs the arthmetic operations defined by the user.
@@ -49,7 +49,7 @@ Division: 2
 
 
 
-TITLE: Replacing a word in the sentence
+3. TITLE: Replacing a word in the sentence
 
 DESCRIPTION:
 This Python code is for replacing the string "python" with the string "pythons".
@@ -67,7 +67,7 @@ pythons is a pythons
 
 
 
-TITLE: Printing grades
+4. TITLE: Printing grades
 
 DESCRIPTION:
 This Python code script implements a numerical score input by the user. Based the input score by userit  categorizes the score into different grades A, B, C, D, or F based on predefined score ranges.

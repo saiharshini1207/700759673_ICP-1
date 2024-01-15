@@ -12,11 +12,11 @@ CODE EXPLANATION:
 
 
 Considering a Example:
-Enter  string: hello
-Enter number of characters to be deleted: 2
-Enter the characters to be deleted: e
-Enter the characters to be deleted: l
-Reversed and Modified String: olh
+1.Enter  string: hello
+2.Enter number of characters to be deleted: 2
+3.Enter the characters to be deleted: e
+4.Enter the characters to be deleted: l
+5.Reversed and Modified String: olh
 
 
 

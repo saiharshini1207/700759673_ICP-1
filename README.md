@@ -1,6 +1,6 @@
 # 700759673_ICP-1
 
-
+code explanation video link: https://drive.google.com/file/d/1kWDh_64NOQA7Bt6WNswNp_HjM3XiZF2Y/view?usp=sharing
 *1.  TITLE: Deleting characters and Reversal of string
 
 DESCRIPTION:
